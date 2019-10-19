@@ -1,5 +1,5 @@
 //solution for counting valleys hackerrank in JS
-function countingValleys(){
+function countingValleys(n, s){
      const min = 2;
      const max = 1000000;
      let isInValley = false;
