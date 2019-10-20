@@ -9,6 +9,7 @@ function diagonalDifference(a) {
     }
     return Math.abs(leftTotal - rightTotal);
   }
-  diagonalDifference([[1,2,3],
-   [4,5,6],
-   [7,8,10]])
+  diagonalDifference
+  ([[1,2,3],
+    [4,5,6],
+    [7,8,10]])
