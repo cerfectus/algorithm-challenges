@@ -11,3 +11,5 @@ function angryProfessor(k, a) {
  return t.length >= k ? 'NO' : 'YES'
 
 }
+
+
