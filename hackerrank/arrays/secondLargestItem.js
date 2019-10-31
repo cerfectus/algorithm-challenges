@@ -12,5 +12,4 @@ function getSecondLargest(nums) {
         }
     }
     return second
-   
 }
